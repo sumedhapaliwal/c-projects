@@ -1,7 +1,7 @@
 # Projects in C
 
-### Academic Projects
+### Academic
 1. Hotel bookings manager applying Linked Lists
 
-### Personal Projects
+### Personal
 --
