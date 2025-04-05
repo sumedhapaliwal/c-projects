@@ -1,7 +1,7 @@
 # Projects in C
 
 ### Academic
-1. Hotel bookings manager applying Linked Lists
+1. Tourist Handling system applying Linked Lists
 
 ### Personal
 --
